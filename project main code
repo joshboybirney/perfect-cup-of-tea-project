@@ -1,5 +1,19 @@
 print("welcome to my app ")
 print("in this app you fill out a survey and the app will make you the perfect cup of tea ")
 
+choice = input("what way do you like your coffe")
+if choice = black
+print("ok")
 
-print("
+elif choice = white 
+print("ok")
+
+else choice = 
+print("not a option")
+
+option = input("what temp do u like your coffe // hot cold are luke warm ")
+
+if option = cold 
+
+
+
